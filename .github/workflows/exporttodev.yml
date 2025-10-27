@@ -42,7 +42,7 @@ jobs:
         lfs: true
         
     - name: export-solution action -unmanaged
-      uses: microsoft/powerplatform-actions/export-solution@v0
+      uses: microsoft/powerplatform-actions/export-solution@v1
       with:
         environment-url: ${{env.ENVIRONMENT_URL}}
         app-id: ${{env.CLIENT_ID}}
