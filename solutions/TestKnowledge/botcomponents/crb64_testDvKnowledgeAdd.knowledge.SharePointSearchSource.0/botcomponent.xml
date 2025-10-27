@@ -1,0 +1,11 @@
+<botcomponent schemaname="crb64_testDvKnowledgeAdd.knowledge.SharePointSearchSource.0">
+  <componenttype>16</componenttype>
+  <description>This knowledge source provides information found in allcompany SharePoint.</description>
+  <iscustomizable>0</iscustomizable>
+  <name>fknowledge</name>
+  <parentbotid>
+    <schemaname>crb64_testDvKnowledgeAdd</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>
