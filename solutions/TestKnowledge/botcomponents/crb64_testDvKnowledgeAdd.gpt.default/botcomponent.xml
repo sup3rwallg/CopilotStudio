@@ -1,0 +1,11 @@
+<botcomponent schemaname="crb64_testDvKnowledgeAdd.gpt.default">
+  <componenttype>15</componenttype>
+  <description>This is a knowledge test</description>
+  <iscustomizable>0</iscustomizable>
+  <name>TestDVKnowledgeAdd</name>
+  <parentbotid>
+    <schemaname>crb64_testDvKnowledgeAdd</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>

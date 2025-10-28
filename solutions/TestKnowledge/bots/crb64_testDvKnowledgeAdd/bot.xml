@@ -6,38 +6,7 @@
   <language>1033</language>
   <name>TestDVKnowledgeAdd</name>
   <runtimeprovider>0</runtimeprovider>
-  <synchronizationstatus>{
-  "$kind": "BotSynchronizationDetails",
-  "contentVersion": 2,
-  "lastFinishedPublishOperation": {
-    "$kind": "PublishResultDetails",
-    "operationStart": "2025-10-28T14:09:18.7000013Z",
-    "operationEnd": "2025-10-28T14:10:02.364754Z",
-    "status": "Succeeded"
-  },
-  "lastPublishedDetails": {
-    "$kind": "SuccessfulPublishResultDetails",
-    "authenticationMode": "Integrated"
-  },
-  "currentSynchronizationState": {
-    "$kind": "SynchronizationState",
-    "botRegistration": {
-      "$kind": "BotRegistrationDetails",
-      "botRegistrationIdConsumptionTime": "2025-10-23T19:28:33Z",
-      "applicationId": "f5416029-7587-4aef-99e1-5d9487a3b997",
-      "isAppAvailableInTenant": true
-    },
-    "provisioningStatus": "Provisioned",
-    "state": "Synchronized",
-    "channels": [
-      {
-        "$kind": "SynchronizedChannel",
-        "channelName": "MsTeams"
-      }
-    ]
-  },
-  "lastSynchronizedOnUtc": "2025-10-28T14:10:25.4815333Z"
-}</synchronizationstatus>
+  <synchronizationstatus>{"lastFinishedPublishOperation":{"$kind":"PublishResultDetails","operationStart":"2025-10-28T14:09:18.7000013Z","operationEnd":"2025-10-28T14:10:02.364754Z","status":"Succeeded"},"contentVersion":2,"$kind":"BotSynchronizationDetails","lastPublishedDetails":{"$kind":"SuccessfulPublishResultDetails","authenticationMode":"Integrated"},"currentSynchronizationState":{"$kind":"SynchronizationState","botRegistration":{"$kind":"BotRegistrationDetails","botRegistrationIdConsumptionTime":"2025-10-23T19:28:33Z","applicationId":"f5416029-7587-4aef-99e1-5d9487a3b997","isAppAvailableInTenant":true},"provisioningStatus":"Provisioned","state":"Synchronizing","channels":[{"$kind":"SynchronizedChannel","channelName":"MsTeams"}]},"lastSynchronizedOnUtc":"2025-10-28T14:10:25.4815333Z"}</synchronizationstatus>
   <template>default-2.1.0</template>
   <timezoneruleversionnumber>4</timezoneruleversionnumber>
 </bot>
