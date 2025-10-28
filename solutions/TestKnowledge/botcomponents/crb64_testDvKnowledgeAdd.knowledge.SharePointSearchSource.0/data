@@ -1,4 +1,0 @@
-kind: KnowledgeSourceConfiguration
-source:
-  kind: SharePointSearchSource
-  site: https://m365cpi89024982.sharepoint.com/sites/allcompany
